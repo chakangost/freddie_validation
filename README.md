@@ -62,7 +62,7 @@ FreddieValidation.isValidBusinessId("0000000000") //Import문 없이할 경우
 isValidEmail("")
 ```
 
-> ####비밀번호 : 영문 + 숫자 8자 이상 확인
+> #### 비밀번호 : 영문 + 숫자 8자 이상 확인
 ```Kotlin
 isValidPasswordEasy("")
 ```
