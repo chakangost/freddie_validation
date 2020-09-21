@@ -1,5 +1,6 @@
-# What is freddie_validation?
+##### android validation, kotlin validation string validataion
 
+# What is freddie_validation?
 String validation을 간편하게 도와주는 api형 라이브러리 입니다.
 
 
