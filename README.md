@@ -51,7 +51,7 @@ FreddieValidation.isValidBusinessId("0000000000") //Import문 없이할 경우
 
 ## Api 종류 및 간단 설명
 
-#### : 메일주소 형식 확인
+> #### 메일주소 형식 확인
 ```Kotlin
 isValidEmail("")
 ```
