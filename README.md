@@ -56,57 +56,57 @@ FreddieValidation.isValidBusinessId("0000000000") //Import문 없이할 경우
 isValidEmail("")
 ```
 
-#### : 비밀번호 : 영문 + 숫자 8자 이상 확인
+> ####비밀번호 : 영문 + 숫자 8자 이상 확인
 ```Kotlin
 isValidPasswordEasy("")
 ```
 
-#### : 비밀번호 : 대소문자 + 숫자 확인
+> #### 비밀번호 : 대소문자 + 숫자 확인
 ```Kotlin
 isValidPasswordNormal("")
 ```
 
-#### : 비밀번호 : 대소문자 + 숫자 + 특수문자
+> #### 비밀번호 : 대소문자 + 숫자 + 특수문자
 ```Kotlin
 isValidPasswordStandard("")
 ```
 
-#### : 한국 폰번호 확인
+> #### 한국 폰번호 확인
 ```Kotlin
 isValidPhoneNumber("")
 ```
 
-#### : 한국 일반전화 확인
+> #### 한국 일반전화 확인
 ```Kotlin
 isValidCallNumber("")
 ```
 
-#### : 한국 이름 4자리까지만 확인
+> #### 한국 이름 4자리까지만 확인
 ```Kotlin
 isValidKoreanName("")
 ```
 
-#### : 한국 차번호 확인
+> #### 한국 차번호 확인
 ```Kotlin
 isValidCarNumber("")
 ```
 
-#### : 12월을 초과하는 값이거나 해당월의 마지막 날짜를 넘는지 확인
+> #### 12월을 초과하는 값이거나 해당월의 마지막 날짜를 넘는지 확인
 ```Kotlin
 isValidDate("")
 ```
 
-#### : 생년월일을 입력받아 올바른 날짜 형식인가 && 실제 있는 날인가 && 현재 날짜보다 미래일 수 없음을 확인
+> #### 생년월일을 입력받아 올바른 날짜 형식인가 && 실제 있는 날인가 && 현재 날짜보다 미래일 수 없음을 확인
 ```Kotlin
 isValidDateAndBirthDay("")
 ```
 
-#### : 사업자 번호 유효성 확인
+> #### 사업자 번호 유효성 확인
 ```Kotlin
 isValidBusinessId("")
 ```
 
-#### : 같은 날짜인지 확인
+> #### 같은 날짜인지 확인
 ```Kotlin
 isSameDate("", "")
 ```
