@@ -1,0 +1,3 @@
+include ':Freddie_Validation'
+include ':app'
+rootProject.name = "freddie_Validation"
